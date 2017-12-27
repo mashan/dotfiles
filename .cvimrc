@@ -6,7 +6,7 @@ let fullpagescrollpercent = 100
 set autohidecursor
 "set noinsertmappings
 set nosmoothscroll
-let blacklists = ["https://mail.google.com/*"]
+let blacklists = ["https://mail.google.com/*", "*//feedly.com/*", "*://*.aws.amazon.com/*"]
 let mapleader = ","
 "let locale = "jp"
 let hintcharacters = "hjklasdfgyuiopqwertnmzxcvb"
